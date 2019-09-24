@@ -1,0 +1,134 @@
+#data-header,
+#origin-header {
+    text-align: center;
+    font-family: 'Ropa Sans', sans-serif;
+    color: #0B3954;
+}
+
+#main-title {
+    text-align: center;
+    font-family: 'Ropa Sans', sans-serif;
+    color: #0B3954;
+}
+
+body {
+    background: #087E8B;
+}
+
+.container {
+    background: #BFD7EA;
+    margin-top: 30px;
+    padding: 10px 20px;
+    /*width: 500px;*/
+}
+
+#origin-form {
+    /*width:75%;*/
+    height: 50%;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 1px;
+    padding: 5px;
+}
+
+#button-group {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+#set-origin {
+    width: 25%;
+    margin: 0px 10%;
+    text-align: center;
+    background: #C81D25;
+    font-size: 20px;
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+#add-dest {
+    width: 25%;
+    margin: 0px 10%;
+    text-align: center;
+    background: #C81D25;
+    font-size: 20px;
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+.list-group-item {
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 25px;
+    background: #FAF6F6;
+}
+
+#back-button,
+#calculate-button {
+    width: 25%;
+    text-align: center;
+    background: #C81D25;
+    font-size: 20px;
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+#back-group,
+#submit-group {
+    margin: 0 auto;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.list-group-item:hover .icon-holder {
+    visibility: visible;
+}
+
+.icon-holder {
+    visibility: hidden;
+    display: inline;
+    float: right;
+}
+
+.icon {
+    text-align: center;
+    vertical-align: middle
+}
+
+.icon-holder:hover {
+    cursor: pointer;
+}
+
+.material-icons:hover {
+    font-weight: bold;
+}
+
+.address {
+    display: inline;
+    vertical-align: middle;
+
+}
+
+.labels {
+    font-family: 'Ropa Sans', sans-serif;
+    color: #0B3954;
+    font-size: 20px;
+}
+
+#errorAlert {
+    text-align: center;
+}
+
+#warningAlert {
+    text-align: center;
+}
+
+.duration {
+    text-align: center;
+    color: #FF5A5F;
+    font-weight: bold;
+}
+
+.finalAddress {
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+}
