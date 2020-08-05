@@ -7,3 +7,18 @@ This project was created using HTML, Bootstrap, jQuery, Express.js and Google's 
 
 ## What I Learned
 After this project, I had a better understanding of advanced javascript concepts such as promises, closures, and callbacks. I also became more familiar with how to use Google's Distance Matrix API. 
+
+## Images of project UI
+
+###### *Main page with no origin or destinations added:*
+![Main Page with no origin or destinations added](./git-images/MAIN-PAGE.png)
+
+###### *Main page with origin and destinations added:*
+![Main Page with origin and destinations added](./git-images/MAIN-PAGE-ADDRESS.png)
+
+###### *Final page with destinations ranked by distance to origin from closest to farthest:*
+![Final page with destinations ranked by distance to origin from closest to farthest](./git-images/DESTINATIONS.png)
+
+
+
+
